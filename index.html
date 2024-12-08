@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chào Mừng Bạn Tới Web Của ĐĂNG KHOA</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background: #444;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 10px 20px;
+            display: block;
+        }
+        nav a:hover {
+            background: #555;
+        }
+        .container {
+            padding: 20px;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Trang Web Của Tôi</h1>
+        <p>Đây là ĐĂNG KHOA.</p>
+    </header>
+    <nav>
+        <a href="#home">Trang chủ</a>
+        <a href="#about">Giới thiệu</a>
+        <a href="#services">Dịch vụ</a>
+        <a href="#contact">Liên hệ</a>
+    </nav>
+    <div class="container">
+    <iframe src="" frameborder="0"></iframe>
+<iframe width="705" height="397" src="https://www.youtube.com/embed/WwnILxzObOQ" title="Series Ăn Cơm Cùng Doraemon #39 | Số phận trêu đùa, ai mà đoán được" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></width=>></iframe>
+</iframe>
+<div class="container">
+    <iframe src="" frameborder="0"></iframe>
+<iframe width="706" height="397" src="https://www.youtube.com/embed/0HOa-A0rt_Q" title="[S6] Doraemon Tập 299 - Kế Hoạch Ngày Sinh Nhật, Máy Cải Lão Hoàn Đồng - Tiếng Việt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></>
+
+</iframe>
+        <h2>Chào mừng đến với trang web của tôi!</h2>
+        <p>Đây là nội dung chính của trang web.</p>
+    </div>
+    <footer>
+        <p>Bản quyền © 2024 - Trang web của tôi</p>
+    </footer>
+</body>
+</html>
